@@ -19,10 +19,10 @@ return [
         // db setting
         'db' => [
             'host' => 'localhost',
-            'user' => 'root',
-            'pass' => 'Milanisti03',
-            'dbname' => 'dbperumahan',
-            'driver' => 'mysql'
+            'user' => '<nama_user_db>',
+            'pass' => '<password_user_db>',
+            'dbname' => '<nama_db>',
+            'driver' => '<vendor_db>'
         ]
     ],
 ];
